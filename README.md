@@ -1,6 +1,6 @@
-# MBC08-Professional-Materials
+# MBC15-Portfolio v2.0
 
-Monash Bootcamp Week 8 Assignment - Professional Materials
+Monash Bootcamp Week 15 Assignment - My Portfolio v2.o
 
 ### About this project
 
@@ -9,7 +9,6 @@ Vivianne Zara is an IT Senior Business Consultant, currently studying Full Stack
 This portfolio is a personal respresentation of accomplishments to date as part of the course design.
 
 ### Project Link
-https://vvnnzar.github.io/MBC08_Professional-Materials/
 
 ### Screen layout and Design
 
@@ -20,7 +19,8 @@ The following image depicts the web application's appearance and functionality:
 
 This development was completed in part using the following online references:
 
-- w3 schools
+- w3 Schools
+- https://codepen.io/rdeber/pen/QYEJJQ (animated contact icons)
 
 ### Installation
 
@@ -65,7 +65,8 @@ To update the project with latest code:
 
 ### Versioning
 
-Initial Release v1.0 19/04/2021
+v1.0 19/04/2021
+v2.0 21/06/2021
 
 ### License
 
