@@ -9,6 +9,7 @@ Vivianne Zara is an IT Senior Business Consultant, currently studying Full Stack
 This portfolio is a personal respresentation of accomplishments to date as part of the course design.
 
 ### Project Link
+https://vvnnzar.github.io/MBC15_Portfolio-v2/ 
 
 ### Screen layout and Design
 
