@@ -13,7 +13,7 @@ This portfolio is a personal respresentation of accomplishments to date as part 
 ### Screen layout and Design
 
 The following image depicts the web application's appearance and functionality:
-(![Vivianne Zara Portfolio Screen Design](https://github.com/vvnnzar/MBC08_Professional-Materials/blob/main/screen_design/screen%20design.PNG))
+(![Vivianne Zara Portfolio Screen Design](https://github.com/vvnnzar/MBC15_Portfolio-v2/blob/main/screen_design/screen%20design.PNG))
 
 ### Acknowledgements
 
